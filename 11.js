@@ -55,6 +55,6 @@ switch (fruit) {
         console.log("키위입니다.");   
         break;
     default : 
-        console.log("아무것도 아닙니다.") 
+        console.log("아무것도 아닙니다.");
         break;
 }
